@@ -2,4 +2,6 @@
 main() {
 
          biggest();
+         factorial();
+        reverse();
 }
